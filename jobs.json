@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "city": "南宁",
-  "updated_at": "2026-10-21T14:41:22+08:00",
-  "generated_at": 1792593682,
+  "updated_at": "2026-10-21T14:55:11+08:00",
+  "generated_at": 1792594511,
   "keywords": [
     "电话销售",
     "电销",
@@ -18,15 +18,15 @@
       "BOSS直聘": 81,
       "前程无忧": 0,
       "南宁人社局": 0,
-      "国企/银行官网": 7
+      "国企/银行官网": 6
     },
     "errors": [],
-    "collected": 88,
-    "after_dedup": 88,
+    "collected": 87,
+    "after_dedup": 87,
     "hard_rejected": 15,
     "qualified": 0,
     "new": 0,
-    "scanned": 73,
+    "scanned": 72,
     "best_score": 76.5,
     "best_title": "纯客服+7000(无试岗)",
     "best_company": "优企"
