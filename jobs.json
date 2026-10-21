@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "city": "南宁",
+  "updated_at": "2026-10-21T22:03:18+08:00",
+  "generated_at": 1792591398,
+  "keywords": [
+    "电话销售",
+    "电销",
+    "客户经理",
+    "电话客服",
+    "营销专员",
+    "外呼专员"
+  ],
+  "min_score": 80.0,
+  "scorer": "local",
+  "stats": {
+    "sources": {
+      "BOSS直聘": 0,
+      "前程无忧": 0,
+      "南宁人社局": 0,
+      "国企/银行官网": 7
+    },
+    "errors": [],
+    "collected": 7,
+    "after_dedup": 7,
+    "hard_rejected": 1,
+    "qualified": 0,
+    "new": 0,
+    "scanned": 6,
+    "best_score": 70.4,
+    "best_title": "中国银行股份有限公司2027年全球校园招聘公告",
+    "best_company": "中国银行 招聘公告"
+  },
+  "jobs": [],
+  "rejected_sample": [
+    {
+      "title": "中国银行股份有限公司2026年实习生招聘公告",
+      "company": "中国银行 招聘公告",
+      "reason": "兼职/日结/实习，非全日制目标岗位"
+    }
+  ]
+}
